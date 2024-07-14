@@ -1,0 +1,2 @@
+arr = Array(5)
+print(arr)
